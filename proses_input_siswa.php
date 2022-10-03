@@ -1,3 +1,8 @@
+<!--
+Author Name: Naveta Candra Chairullah
+Author Email: naveta.cand@gmail.com
+-->
+
 <?php include('./koneksi.php'); ?>
 <!DOCTYPE html>
 <html lang="en">

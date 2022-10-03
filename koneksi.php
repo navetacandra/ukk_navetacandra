@@ -1,3 +1,8 @@
+<!--
+Author Name: Naveta Candra Chairullah
+Author Email: naveta.cand@gmail.com
+-->
+
 <?php
 // Melakukan koneksi mysql
 $koneksi = mysqli_connect('localhost', 'root', '', 'ukk_navetacandra');
